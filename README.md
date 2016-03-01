@@ -14,6 +14,23 @@ To add to the list of quotes:
 
 ##The Quotes
 
+> Love has a tide! 
+
+Helen Hunt Jackson 
+
+---
+> Fine. Sell out. Get a job. A nice nine to five one. Sit in front of the idiot box all night and watch some stupid sitcom...all the while wondering what it might have been like if you'd hung in there for just one...more...day.
+
+Oderus Urungus, 2013
+
+---
+
+> No matter where you go - there you are.
+
+Confucious 551-479 BC
+
+---
+
 > Something unknown is doing we don't know what - that is what our knowledge amounts to.
 
 Sir Arthur Eddington, 1927  
@@ -143,3 +160,120 @@ Boris Pasternak
 > The future cannot be predicted, but futures can be invented.
 
 Dennis Gabor, Inventing the Future, 1963
+
+---
+
+> We keep moving forward, opening new doors, and doing new things, because we're curious and curiosity keeps leading us down new paths.
+
+Walt Disney
+
+---
+
+> Everything was beautiful and nothing hurt.
+
+Vonnegut
+
+---
+
+> Don't drink and drive. But if you do, call me.
+
+Saul Goodman
+
+---
+
+> you have to learn the rules of the game. and then you have to play better than anyone else.
+
+Albert Einstein
+
+---
+
+> It has been said that man is a rational animal. All my life I have been searching for evidence which could support this. 
+
+Bertrand Russell
+
+---
+
+> If you don't know where you are going, any road will get you there.
+
+Lewis Carroll
+
+---
+
+> An atom at large in the biota is too free to know freedom; an atom back in the sea has forgotten it. For every atom lost to the sea, the prairie pulls another out of the decaying rocks. The only certain truth is that its creatures must suck hard, live fast, and die often, lest its losses exceed its gains.
+
+Aldo Leopold
+
+---
+
+> The world is a book and those who do not travel read only one page.
+
+St. Augustine
+
+---
+
+> Far too often, "software engineering" is neither engineering nor about software.
+
+Bjarne Stroustrup
+
+---
+
+> First solve the problem. Than write the code.
+
+John Johnson
+
+---
+> Web design for me is a perfect blend of arty and nerdy.
+
+Chris Coyier
+
+---
+
+> Mystery is the source of all true art and science.
+
+Albert Einstein
+
+---
+
+> Every time someone asked me why I was walking around with crab apples in my cheeks, I’d just open my hands and show them it was rubber balls I was walking around with, not crab apples, and that they were in my hands, not my cheeks.
+
+Orr (Catch-22)
+
+---
+> Be less curious about people and more curious about ideas.
+
+Marie Curie
+
+---
+
+> Brevity is the Soul of Wit
+
+Shakespeare
+
+---
+> But he who kisses the joy as it flies 
+Lives in eternity's sun rise.
+
+William Blake
+
+---
+> Liberate the minds of men and ultimately you will liberate the bodies of men
+
+Marcus Garvey
+
+---
+> Hope is the thing with feathers
+
+Emily Dickinson
+
+---
+
+> Always forgive your enemies; nothing annoys them so much.
+
+Oscar Wilde
+
+---
+
+> There is no greater agony than bearing an untold story inside you.
+
+Maya Angelou
+
